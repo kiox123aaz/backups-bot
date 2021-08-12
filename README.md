@@ -12,19 +12,18 @@
 
 This command allows you to create a backup of the current server (restricted to moderators)
 
-![create](./examples/create.png)  
+
 
 ### Info
 
 This command allows you to get information about the backup you created
 
-![info](./examples/info.png)
+
 
 ### Load
 
 This command allows you to load a backup in the current server (restricted to administrators)
 
-![load](./examples/load.png)  
 
 ## Install
 
